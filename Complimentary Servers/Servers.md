@@ -1,4 +1,4 @@
-https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-applicatio
+https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application
 
 https://www.ibm.com/cloud/learn/web-server-vs-application-server
 
